@@ -82,7 +82,7 @@ Adjust responsive breakpoints and styling in `styles.css`
 
 ## License
 
-© 2024 Mathonsi Tech Creations. All rights reserved.
+© 2025 Mathonsi Tech Creations. All rights reserved.
 
 ## Contact
 
