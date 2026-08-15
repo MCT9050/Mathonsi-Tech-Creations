@@ -1,89 +1,47 @@
-# Mathonsi Tech Creations
+# Mathonsi Tech Creations Landing Page
 
-A modern, responsive company website for Mathonsi Tech Creations built with HTML, CSS, and JavaScript.
+A static, responsive company landing page designed for GitHub Pages.
 
-## Features
+## Files
 
-- **Responsive Design**: Mobile-first approach that works on all devices
-- **Modern UI**: Clean and professional user interface
-- **Smooth Scrolling**: Smooth navigation between sections
-- **Contact Form**: Functional contact form for customer inquiries
-- **Services Showcase**: Display of company services
-- **About Section**: Information about the company
-- **Animated Elements**: Subtle animations for enhanced UX
+- `index.html`
+- `styles.css`
+- `script.js`
 
-## Project Structure
+No build step, framework, package manager or server is required.
 
-```
-├── index.html       # Main HTML file
-├── styles.css       # Stylesheet
-├── script.js        # JavaScript functionality
-└── README.md        # This file
-```
+## Publish with GitHub Pages
 
-## Installation
+1. Create a new GitHub repository.
+2. Upload all files in this folder to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select your main branch and `/ (root)`.
+6. Save.
 
-1. Clone or download the repository
-2. Open `index.html` in your web browser
-3. No build process or dependencies required
+GitHub will publish the site at a URL similar to:
 
-## Usage
+`https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`
 
-### Navigation
-- Click on navigation menu items to smoothly scroll to different sections
-- The "Get Started" button scrolls to the contact form
+## Conferly
 
-### Contact Form
-- Fill in your name, email, and message
-- Click "Send Message" to submit
-- Form includes basic validation
+The page includes direct links to:
 
-## Sections
+https://www.conferly.site
 
-### Home (Hero)
-Welcome section with call-to-action button
+## Customisation
 
-### Services
-Showcases three main service offerings:
-- Web Development
-- Mobile Apps
-- Consulting
+You can edit:
+- Company wording in `index.html`
+- Colours and layout in `styles.css`
+- Mobile navigation and scroll effects in `script.js`
 
-### About
-Company information and mission statement
-
-### Contact
-Get in touch form for customer inquiries
-
-## Customization
-
-### Colors
-Edit the CSS custom properties in `styles.css`:
-```css
-:root {
-    --primary-color: #2c3e50;
-    --secondary-color: #3498db;
-    --accent-color: #e74c3c;
-}
-```
-
-### Content
-All content can be easily modified in `index.html`
-
-### Styling
-Adjust responsive breakpoints and styling in `styles.css`
-
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers
-
-## License
-
-© 2025 Mathonsi Tech Creations. All rights reserved.
+The page is intentionally framework-free for simple GitHub Pages hosting.
 
 ## Contact
 
-For inquiries about our services, use the contact form on the website or reach out directly.
+For business enquiries, partnerships or sponsorship:
+
+- info@tech-creation.co.za
+- info@conferly.site
+- 060 382 9050
